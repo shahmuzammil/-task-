@@ -1,0 +1,13 @@
+.stopwatch {
+    text-align: center;
+  }
+  
+  .display {
+    font-size: 36px;
+    font-family: monospace;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
